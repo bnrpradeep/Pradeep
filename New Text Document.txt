@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hi this is ashfaq
+=======
+this is pradeep
+>>>>>>> 8bd76d3ad188609b8ee6af01e11cd8bcc5c920b3
